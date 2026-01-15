@@ -1,12 +1,12 @@
 # Cyber Behaviour Specialist
 
 ##Education
--Ph.D, Behavioural Neuroscience | University of Sydney
--B.Psych, Psychology | Macquarie University, Sydney
+Ph.D, Behavioural Neuroscience | University of Sydney
+B.Psych, Psychology | Macquarie University, Sydney
 
-###Work Experience
+##Work Experience
 Associate Professor at Western Sydney University
 
 ##Projects
--Project 1
--Project 2
+Project 1
+Project 2
